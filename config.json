@@ -1,0 +1,13 @@
+{
+  "project_title": "Sales Pipeline Triage",
+  "goal": "Rank deals by health and identify stalled stages.",
+  "entity_name": "deal",
+  "amount_label": "deal_size",
+  "score_label": "health_score",
+  "categories": [
+    "prospect",
+    "qualified",
+    "proposal",
+    "negotiation"
+  ]
+}
